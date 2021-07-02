@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Carl Bernardo',
-  domain: 'c9rl.works',
+  domain: 'c9rl.xyz',
   author: 'Carl Bernardo',
 
   // open graph metadata (optional)
